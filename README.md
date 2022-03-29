@@ -1,4 +1,4 @@
-![Header](https://github.com/Oleg655/oleg655/blob/main/assets/img2.jpg)
+![Header](https://github.com/Oleg655/oleg655/blob/main/assets/img4.jpg)
 
 ## I am a front-end developer with experience in creating SPA using React, Redux, JS, HTML, CSS
 
