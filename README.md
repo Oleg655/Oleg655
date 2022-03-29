@@ -10,4 +10,4 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
-![HTML5](https://img.shields.io/badge/-HTML5-FF6600?style=for-the-badge&logo=HTML5&logoColor=E9D54D)
+![HTML5](https://img.shields.io/badge/-HTML5-FF6600?style=for-the-badge&logo=HTML5&logoColor=000000)
