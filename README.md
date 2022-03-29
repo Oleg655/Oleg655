@@ -3,4 +3,5 @@
 ## I am a front-end developer with experience in creating SPA using React, JS, Redux ,HTML,CSS
 
 ### Languages and tools
-![React](https://img.shields.io/badge/-React-090909)
+
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
